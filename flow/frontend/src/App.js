@@ -19,7 +19,8 @@ class App extends Component {
           >
             Learn React
           </a>
-          Or go home!!! This is dynamic!
+          Or go home!!! This is dynamic! Or is it? <br></br>
+          Of course it bloody is!!! I am amazing!
         </header>
       </div>
     );
